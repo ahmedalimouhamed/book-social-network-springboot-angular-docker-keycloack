@@ -9,7 +9,6 @@ springdoc:
   default-produces-media-type: application/json
 
 server:
-  port: 8180
   servlet:
     context-path: /api/v1/
 
